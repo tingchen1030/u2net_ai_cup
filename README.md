@@ -4,7 +4,7 @@
 pip install -r requirement.txt
 ```
 
-2. pretrain model 可去以下的google 雲端連結下載 [**GoogleDrive**](https://drive.google.com/file/d/1D1eeuuwbccx86rosb1DuWnRRDjwySaC9/view?usp=sharing) 
+2. pretrain model 可去以下的google 雲端連結下載 [**GoogleDrive**](https://drive.google.com/file/d/1pM4RNk9NFJBZszi6J8PIMSAQzV-nVgL_/view?usp=sharing) 
 
 3. 訓練模型 <br/>
 (1)在u2net_train.py的這隻程式中的53行位置可修改train image 和 mask label image 的位置<br/>
